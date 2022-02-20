@@ -1,6 +1,4 @@
-## Luis Henrique - GitHub
-
-- 🌱 I’m currently learning C/C++ and Python
+- 🌱 I’m currently learning and developing C/C++, JavaScript and Python
 
 </div>
 <div style="display: inline_block"><br>
