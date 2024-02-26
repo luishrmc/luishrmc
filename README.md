@@ -1,4 +1,4 @@
-- :computer: I’m currently learning and developing C/C++ and JavaScript codes
+- :computer: I'm currently learning and developing C/C++ applications on embedded systems
 - :e-mail: My e-mail luishrm@ufmg.br
 
 ##
